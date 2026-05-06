@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import axios from 'axios'
 
-const API = 'https://libanaid-production.up.railway.app/'
+const API = 'https://libanaid-production.up.railway.app'
 
 const advice = {
   critical: 'Immediate response needed. Direct aid and evacuation teams to this region.',
