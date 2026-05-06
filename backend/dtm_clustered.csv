@@ -1,0 +1,27 @@
+admin1Name,admin2Name,numPresentIdpInd,reportingDate,displacementReason,idp_scaled,governorate,total_capacity,active_shelters,cluster,cluster_label
+North,Bcharre,15,2025-01-22,Conflict,-0.3842926698845691,North,19464.0,88.0,1,Available
+North,El Batroun,5,2025-03-31,Conflict,-0.3853612492170505,North,19464.0,88.0,1,Available
+North,Zgharta,5,2025-04-30,Conflict,-0.3853612492170505,North,19464.0,88.0,1,Available
+North,El Minieh-Dennie,4,2025-05-31,Conflict,-0.3854681071502986,North,19464.0,88.0,1,Available
+Bekaa,West Bekaa,9,2025-10-31,Conflict,-0.3849338174840579,Bekaa,8358.0,49.0,0,Moderate
+Bekaa,Rachaya,20,2025-10-31,Conflict,-0.3837583802183284,Bekaa,8358.0,49.0,0,Moderate
+El Nabatieh,Marjaayoun,1653,2025-10-31,Conflict,-0.2092593752241199,0,0.0,0.0,0,Moderate
+Baalbek-El Hermel,El Hermel,15,2025-10-31,Conflict,-0.3842926698845691,0,0.0,0.0,0,Moderate
+El Nabatieh,El Nabatieh,19525,2025-10-31,Conflict,1.7005056077865932,0,0.0,0.0,2,Overwhelmed
+Baalbek-El Hermel,Baalbek,76,2025-10-31,Conflict,-0.3777743359564327,0,0.0,0.0,0,Moderate
+Mount Lebanon,Kesrwane,62,2025-10-31,Conflict,-0.3792703470219066,Mount Lebanon,19764.0,185.0,1,Available
+South,Sour,12487,2025-10-31,Conflict,0.9484394735862016,South,6006.0,26.0,2,Overwhelmed
+Mount Lebanon,Baabda,63,2025-10-31,Conflict,-0.3791634890886585,Mount Lebanon,19764.0,185.0,1,Available
+Bekaa,Zahle,14,2025-10-31,Conflict,-0.3843995278178173,Bekaa,8358.0,49.0,0,Moderate
+North,El Koura,6,2025-10-31,Conflict,-0.3852543912838023,North,19464.0,88.0,1,Available
+Akkar,Akkar,30,2025-10-31,Conflict,-0.3826898008858471,Akkar,12180.0,68.0,0,Moderate
+North,Tripoli,16,2025-10-31,Conflict,-0.384185811951321,North,19464.0,88.0,1,Available
+El Nabatieh,Hasbaya,348,2025-10-31,Conflict,-0.3487089781129393,0,0.0,0.0,0,Moderate
+Mount Lebanon,El Meten,753,2025-10-31,Conflict,-0.3054315151474436,Mount Lebanon,19764.0,185.0,1,Available
+South,Saida,803,2025-10-31,Conflict,-0.3000886184850368,South,6006.0,26.0,0,Moderate
+Beirut,Beirut,470,2025-10-31,Conflict,-0.3356723102566665,Beirut,4116.0,33.0,0,Moderate
+El Nabatieh,Bent Jbeil,4503,2025-10-31,Conflict,0.0952857345330719,0,0.0,0.0,0,Moderate
+Mount Lebanon,Chouf,944,2025-10-31,Conflict,-0.2850216498970494,Mount Lebanon,19764.0,185.0,1,Available
+Mount Lebanon,Jbeil,18,2025-10-31,Conflict,-0.3839720960848247,Mount Lebanon,19764.0,185.0,1,Available
+South,Jezzine,7,2025-10-31,Conflict,-0.3851475333505542,South,6006.0,26.0,0,Moderate
+Mount Lebanon,Aley,5984,2025-10-31,Conflict,0.2535423336735635,Mount Lebanon,19764.0,185.0,1,Available
